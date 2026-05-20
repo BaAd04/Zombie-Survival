@@ -1,0 +1,9 @@
+﻿  Zombie Survival.cpp
+C:\Users\GioScottiGroyper\source\FSML\eternals\include\SFML\System\Exception.hpp(41,47): warning C4275: interfejs niebędący interfejsem dll class "std::runtime_error"użyto jako podstawowego dla interfejsu biblioteki dll class "sf::Exception"
+  (kompilowanie pliku źródłowego „Zombie%20Survival.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\stdexcept(100,30):
+      zobacz deklarację „std::runtime_error”
+      C:\Users\GioScottiGroyper\source\FSML\eternals\include\SFML\System\Exception.hpp(41,23):
+      zobacz deklarację „sf::Exception”
+  
+  Zombie Survival.vcxproj -> C:\Users\GioScottiGroyper\source\repos\Zombie Survival\x64\Debug\Zombie Survival.exe
